@@ -1,0 +1,17 @@
+ 
+done by the ADMIN
+
+Volume in drive C has no label.
+ Volume Serial Number is 20A7-354A
+
+ Directory of C:\test_project
+
+05/02/2017  11:47 PM    <DIR>          .
+05/02/2017  11:47 PM    <DIR>          ..
+05/02/2017  11:47 PM                 0 project1.txt
+05/02/2017  11:17 PM                40 README.md
+               2 File(s)             40 bytes
+               2 Dir(s)  27,525,509,120 bytes free
+
+
+
